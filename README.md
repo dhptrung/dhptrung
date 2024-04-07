@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Trung Dinh</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">DHPT TK14 NBK</h3>
+<!-- <h3 align="center">DHPT TK14 NBK</h3> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhptrung"/> </p>
 
-- ✍ I'm currently a junior student of: [VNU HCMC-University of Science](https://www.hcmus.edu.vn/) (HCMUS).
-
-- 🎓 Major in **Computer Science**.
-
-- 🔎 Interested in **Data Analysis**.
+- 🧑‍💼 I am a Python developer
+- 🎓 I graduated from [VNU HCMC-University of Science](https://www.hcmus.edu.vn/) (HCMUS) with a major in **Computer Science**.
 
 ## 📌 Skills:
 <p align="center">
