@@ -3,8 +3,8 @@
 <!-- <h3 align="center">DHPT TK14 NBK</h3> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhptrung"/> </p>
 
-- 🧑‍💼 I am a Python developer
-- 🎓 I graduated from [VNU HCMC-University of Science](https://www.hcmus.edu.vn/) (HCMUS) with a major in **Computer Science**.
+- 🧑‍💼 I am a **Python Developer**
+- 🎓 I graduated from **[VNU HCMC-University of Science](https://www.hcmus.edu.vn/) (HCMUS)** with a major in **Computer Science**.
 
 ## 📌 Skills:
 <p align="center">
